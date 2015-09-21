@@ -1,0 +1,10 @@
+//Clonar repositorio GitHub
+git clone https://github.com/AragonDeLosReyes/prueba-java.git
+
+
+//comentario en GitHub
+git commit -m "Actualización del fichero README.md"
+
+//Actualizar repositorio con todos los archivos de un directorio en mi PC
+git add . --all
+
